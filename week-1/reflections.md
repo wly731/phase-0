@@ -102,3 +102,37 @@ show a list of commands
 
 #1.4 Forking and Cloning Reflection
 
+
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be? Why would you fork a repository as opposed to create a new one?
+how to create a new repo
+
+1. First log in to GitHub
+
+2. On the top right hand corner you will see your profile picture. Beside it you will see a "+" button
+
+3. Click on the "+" button, and then select "New repository"
+
+4. And then you enter your desired repository name, and the click the button "Create repository" at the bottom
+
+how to fork a repo
+
+1. You click into the repo that you want to fork
+
+2. On the top right hand corner you see "Unwatch", "Star" and "Fork", you select "Fork"
+
+3. And then you select which profile you would the repo to be forked to (this step does not show up if you only have 1 profile)
+
+how to clone a repo
+
+1. Click into the repo that you would like to clone on GitHub, then copy the HTTPS
+
+2. You open the command line (e.g. Terminal)
+
+3. You cd to the directory where you want to placed the cloned repo
+
+4. You type the command "git clone [paste your HTTPS here]"
+
+
+
+What struggles did you have setting up git and GitHub? What did you learn in the process?
+Not really. I learn how to set up git and GitHub by using the command lines. One little struggle here is I am not so sure how to manage my branches and how to use sublime. For example if I created a branch called "new-branch", after I clone the "p0-cli-exploration" to my computer, the branch will be shifted to "master" automatically.
