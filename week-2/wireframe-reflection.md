@@ -1,6 +1,6 @@
-![Alt text](https://github.com/wly731/phase-0/blob/master/week-2/img/wireframe-home.png)
+![Alt text](https://github.com/wly731/phase-0/blob/master/week-2/imgs/wireframe-home.png)
 
-![Alt text](https://github.com/wly731/phase-0/blob/master/week-2/img/wireframe-blog-index.png)
+![Alt text](https://github.com/wly731/phase-0/blob/master/week-2/imgs/wireframe-blog-index.png)
 
 * What is a wireframe?
 
