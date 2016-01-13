@@ -1,0 +1,88 @@
+.bottom-border {
+  border-bottom: solid grey;
+  border-bottom-width: 1px;
+}
+li {
+  height: 45px;
+  color: #000080;
+}
+html {
+    background-color: #ffffff;
+    color:#000080;
+}
+.right {
+  width: 50%;
+  float: right;
+}
+.left {
+  width: 50%;
+  float: left;
+}
+main {
+  min-height: 350px;
+}
+footer {
+  text-transform: center;
+}
+a:link {
+  color: #800080;
+}
+a:visited {
+  color: #ff0000;
+}
+ul li span {
+  font-stretch: 4;
+}
+.header {
+  font-weight: bold;
+}
+
+p{
+  font-size: 0.5em;
+  }
+
+.capital-letter{
+  font-size:1.7em;
+
+}
+header {
+  text-align: center;
+}
+
+.address {
+  text-align: center;
+}
+
+.line-break{
+  display: block;
+}
+
+.small-font {
+
+  font-size: 0.8em;
+}
+
+
+.center-image {
+  margin:auto;
+  width:100px;
+}
+
+
+/*
+1. What is important to know when linking an external file (like a stylesheet) to an HTML file?
+- I think it is important to state the path correctly, especially when you are using a relative path.
+
+What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+- We created a .right and .left class, and used float to fix the section position. It is unexpectedly hard to get the exact same site that I wanted.
+
+What CSS did you use to modify the element style (like size, color, etc.)
+- We used font-size, color, text-align,
+
+Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+- We created a lot of classes, but we didn't use any ids. The reason was an ID can be used to identify one element only whereas a class can be used to identify more than one. We wanted to reuse our classes many times.
+
+When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+- I think ours has cleaner code and better practices. For the original website, the styling was done in HTML but not in a separate CSS stylesheet. e.g.<font size="4">ERKSHIRE </font> Hence, there are a lot of formatting tags which makes the overall HTML code hard to read.
+
+*/
