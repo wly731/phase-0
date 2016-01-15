@@ -1,12 +1,12 @@
-![alt text](imgs/3.4-change-color "Logo Title Text 1")
-![alt text](imgs/3.4-stack "Logo Title Text 2")
-![alt text](imgs/3.4-row "Logo Title Text 1")
-![alt text](imgs/3.4-equidistance "Logo Title Text 1")
-![alt text](imgs/3.4-square "Logo Title Text 1")
-![alt text](imgs/3.4-footer "Logo Title Text 1")
-![alt text](imgs/3.4-centered-header "Logo Title Text 1")
-![alt text](imgs/3.4-side-bar "Logo Title Text 1")
-![alt text](imgs/3.4-creative "Logo Title Text 1")
+![alt text](imgs/3.4-change-color.png "Logo Title Text 1")
+![alt text](imgs/3.4-stack.png "Logo Title Text 2")
+![alt text](imgs/3.4-row.png "Logo Title Text 1")
+![alt text](imgs/3.4-equidistance.png "Logo Title Text 1")
+![alt text](imgs/3.4-square.png "Logo Title Text 1")
+![alt text](imgs/3.4-footer.png "Logo Title Text 1")
+![alt text](imgs/3.4-centered-header.png "Logo Title Text 1")
+![alt text](imgs/3.4-side-bar.png "Logo Title Text 1")
+![alt text](imgs/3.4-creative.png "Logo Title Text 1")
 
 
 1. How can you use Chrome's DevTools inspector to help you format or position elements?
