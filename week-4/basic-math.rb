@@ -10,12 +10,9 @@
 num1 = 7
 num2 = 12
 
-num1f = 7.0
-num2f = 12.0
-
 sum = num1 + num2
 difference = num1 - num2
-quotient = num1f / num2f
+quotient = num1.to_f / num2.to_f
 product = num1 * num2
 modulus = num1 % num2
 
