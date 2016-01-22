@@ -50,3 +50,12 @@ Local variables are variables defined inside a method and can only be used in th
 * How was this challenge? Did you get a good review of some of the basics?
 
 Yes I had a good refrehser on my previous knowledge on Ruby. This challenge is not too difficult.
+
+
+link to 4.2.1: https://github.com/wly731/phase-0/blob/master/week-4/defining-variables.rb
+
+
+link to 4.2.2: https://github.com/wly731/phase-0/blob/master/week-4/simple-string.rb
+
+
+link to 4.2.3: https://github.com/wly731/phase-0/blob/master/week-4/basic-math.rb
