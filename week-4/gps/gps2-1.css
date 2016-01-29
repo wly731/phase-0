@@ -1,0 +1,18 @@
+.column-1{
+  background-color: yellow;
+  width: 50%;
+  float: left;
+
+
+}
+
+.column-2{
+  background-color: grey;
+  width: 50%;
+  float: right;
+}
+
+p{
+  font-family:Century;
+
+}
