@@ -166,7 +166,7 @@ end
 #
 
 
-# Person 4
+# Person 4 - Ben Giamarino
 def my_array_deletion_method!(source, thing_to_delete)
   source.delete_if { |item| item.to_s.include? thing_to_delete}
 end
