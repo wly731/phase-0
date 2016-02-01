@@ -70,7 +70,6 @@ def mode(mode_arr)
 
     p new_arr
 
-
 end
 
 
