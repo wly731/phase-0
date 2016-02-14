@@ -5,11 +5,24 @@
 // Program Structure
 // Write your own variable and do something to it.
 
+var my_variable = 1;
 
+console.log(my_variable+1);
 
 
 // Complete one of the exercises: Looping a Triangle, FizzBuzz, or Chess Board
 
+ // Looping a Triangle
+
+for (var i=1;i<=7;i++){
+
+  while (i>0){
+    console.log('#');
+    i--;
+  }
+  console.log('\n');
+
+}
 
 
 // Functions
