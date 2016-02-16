@@ -13,25 +13,51 @@ console.log(my_variable+1);
 // Complete one of the exercises: Looping a Triangle, FizzBuzz, or Chess Board
 
  // Looping a Triangle
+var triangle = '#'
 
 for (var i=1;i<=7;i++){
 
-  while (i>0){
-    console.log('#');
-    i--;
-  }
-  console.log('\n');
+  console.log(triangle);
+  triangle += '#';
 
-}
+  }
+
+
 
 
 // Functions
 
 // Complete the `minimum` exercise.
 
+function min(num1, num2){
+  if (num1<num2)
+    return num1;
+  else
+    return num2;
+}
+
+console.log(min(0, 10));
+
+console.log(min(0, -10));
 
 
 // Data Structures: Objects and Arrays
+
 // Create an object called "me" that stores your name, age, 3 favorite foods, and a quirk below.
 
+var me = {
+  name: "Victor Wong",
+  age: 22,
+  food: ["pasta", "sushi", "beef"],
+  quirk: "I hate monkeys"
+};
 
+console.log(me.name);
+console.log(me.age);
+console.log(me.food);
+console.log(me.quirk);
+
+/*
+
+
+*/
