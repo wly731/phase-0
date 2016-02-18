@@ -39,3 +39,26 @@
 `select regions.region_name, states.state_name from regions inner join states on regions.id = states.region_id;`
 
 ![image](./8.4-schema.png)
+
+
+**Reflection**
+
+* What are databases for?
+
+Databases are here for you to store a massive amount of data that a normal data type like array and hash cannot handle too well.
+
+* What is a one-to-many relationship?
+
+a one-to-many relationship is where a value of a field can be related to many values of another field. For example, States belong to a region, and regions have many states.
+
+* What is a primary key? What is a foreign key? How can you determine which is which?
+
+A primary key is a key in a relational database that is unique for each record. It is a unique identifier. While a foreign key is a field in one table that uniquely identifies a row of another table.
+
+* How can you select information out of a SQL database? What are some general guidelines for that?
+
+``SELECT column_name,column_name
+FROM table_name;``
+
+We should always make sure we get the exact correct column name and table name in order for this code to work.
+
