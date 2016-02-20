@@ -82,7 +82,7 @@ gradebook.getAverage = function(name) {
 
 
 // __________________________________________
-// Reflect
+// Reflection
 
 /*
 
