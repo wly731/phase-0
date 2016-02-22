@@ -1,6 +1,6 @@
 // Tally Votes in JavaScript Pairing Challenge.
 
-// I worked on this challenge with: Victor Wong, Ben Giamarino
+// I worked on this challenge with: Ben Giamarino
 
 // This challenge took me 1.5 hours.
 
